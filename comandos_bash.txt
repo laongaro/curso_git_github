@@ -1,0 +1,5 @@
+ls = lita arquivos
+ls -a = lista arquivos ocultos 
+cd = move entre diretorios 
+pwd = mostra diretório de trabalho
+cat = vê oq tem dentro do arquivo 
