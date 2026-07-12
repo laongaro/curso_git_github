@@ -6,3 +6,6 @@ teste2
 comandos mais genericos
 
 comandos estranhos
+
+
+mais comandos!
