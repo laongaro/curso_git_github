@@ -1,11 +1,11 @@
-git init. = cria um repo git na pasta atual
-git status = mostra o status do trabalho (de cada arquivo)
-git add nome_arquivo = adiciona arquivo para ser commitado
-git commit -m "mensagem" = faz commit do que estava para ser commitado
-git log = mostra todos o histórico de commit
-. = é o diretorio atual 
-.. = é o diretorio anterioir
-git diff = lista as mudanças feitas no arquivo
+git init . 			= Cria um repo git na pasta atual
+git status			= Mostra o status do trabalho (de cada arquivo)
+git add nome_arquivo 		= Adiciona arquivo para ser commitado
+git commit -m "mensagem" 	= Faz commit do que estava para ser commitado
+git log 			= mostra todos o histórico de commit
+. 				= é o diretorio atual 
+..				= é o diretorio anterioir
+git diff 			= lista as mudanças feitas no arquivo
 
 ## FLUXO DE TRABALHO
  1. criar o diretório do projeto
@@ -16,4 +16,4 @@ git diff = lista as mudanças feitas no arquivo
 6. git commit -m "mensagem"
 7. volta para o passo 3
 
-teste
+ teste eric
