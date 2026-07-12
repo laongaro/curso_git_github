@@ -5,6 +5,7 @@ git commit -m "mensagem" = faz commit do que estava para ser commitado
 git log = mostra todos o histórico de commit
 . = é o diretorio atual 
 .. = é o diretorio anterioir
+git diff = lista as mudanças feitas no arquivo
 
 ## FLUXO DE TRABALHO
  1. criar o diretório do projeto
@@ -14,3 +15,5 @@ git log = mostra todos o histórico de commit
 5. git add nome_arquivo
 6. git commit -m "mensagem"
 7. volta para o passo 3
+
+teste
