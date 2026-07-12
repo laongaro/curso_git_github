@@ -2,3 +2,7 @@ esse arquivo contem comandos secundarios de git
 
 teste
 teste2
+
+comandos mais genericos
+
+comandos estranhos
